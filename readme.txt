@@ -45,7 +45,6 @@ The sections in which the user can give input are:
       PCR_add_legend() - adds a legend to a PCR map
       pcr_cover_nodata() - covers the no_data on a PCR map
       
-
 #--------------------------
 # Map finalizing functions
 #--------------------------
@@ -57,8 +56,8 @@ The sections in which the user can give input are:
    - finalize_prot_area_maps() - performs a few actions on the protected areas map in order to get it ready as input for PLUC
 
 
-
-
+System requirements:
+   Minimal requirements unknown. Run successfully on 3.4GHz, 8GB RAM, 10GB free disk space.
 
 
 
